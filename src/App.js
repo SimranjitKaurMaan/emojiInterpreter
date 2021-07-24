@@ -28,7 +28,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Inside Out!</h1>
+      <h1>Japanese Emojis Interpreter!</h1>
       <input
         placeholder="put an emoji to find its meaning"
         onChange={onChangeHandler}
